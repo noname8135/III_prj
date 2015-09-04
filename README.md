@@ -1,5 +1,6 @@
 Lab project with III,
 just for memo~
+Author: Shuai Chou, Owen Liu, iceman126, Dr.Po-Chin, Lin
 
 required python module:
 	python-ipy
