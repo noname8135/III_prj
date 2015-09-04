@@ -1,0 +1,5 @@
+email off
+dn off
+#IP addresses to be anonymized
+140.123.103.0/24
+8.8.0.0/16

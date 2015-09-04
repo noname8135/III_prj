@@ -1,0 +1,12 @@
+2014-04-22 06:00:00	Local4.Warning	10.251.251.1	%ASA-4-106023: Deny icmp src outside:61.60.96.252 dst DMZ1:61.60.96.99 (type 5, code 0) by access-group "acl_out" [0x0, 0x0]
+2014-04-22 06:00:00	Local4.Warning	10.251.251.1	%ASA-4-106023: Deny icmp src outside:61.60.96.254 dst DMZ1:nscnt12 (type 5, code 0) by access-group "acl_out" [0x0, 0x0]
+2014-04-22 06:00:00	Local4.Info	10.251.251.1	%ASA-6-302021: Teardown ICMP connection for faddr ns1_v6/0 gaddr fe80::225:84ff:fe57:fb20/0 laddr fe80::225:84ff:fe57:fb20/0
+2014-04-22 06:00:00	Local4.Info	10.251.251.1	%ASA-6-302021: Teardown ICMP connection for faddr ns1_v6/0 gaddr fe80::225:84ff:fe57:fb20/0 laddr fe80::225:84ff:fe57:fb20/0
+2014-04-22 06:00:01	Local4.Notice	10.251.251.1	%ASA-5-304001: 199.15.233.164 Accessed URL AP0906:http://stn.nsc.gov.tw/files/stn_files/09803/resultch.pdf
+2014-04-22 06:00:01	Local4.Notice	10.251.251.1	%ASA-5-304001: 199.15.233.164 Accessed URL AP0906:http://stn.nsc.gov.tw/
+2014-04-22 06:00:01	Local4.Info	10.251.251.1	%ASA-6-305012: Teardown dynamic UDP translation from DMZ4:10.1.1.27/38608 to outside:61.60.97.61/7300 duration 0:02:31
+2014-04-22 06:00:01	Local4.Info	10.251.251.1	%ASA-6-302020: Built outbound ICMP connection for faddr 10.180.180.253/0 gaddr nscnt28/0 laddr nscnt28/0
+2014-04-22 06:00:01	Local4.Info	10.251.251.1	%ASA-6-302021: Teardown ICMP connection for faddr 10.180.180.253/0 gaddr nscnt28/0 laddr nscnt28/0
+2014-04-22 06:05:09	Local4.Notice	10.251.251.1	%ASA-5-304001: 110.175.156.45 Accessed URL 192.168.1.22:http://researcher.nsc.gov.tw/public/cysu/Data/9999283971.pdf
+2014-04-22 06:10:10	Local4.Notice	10.251.251.1	%ASA-5-304001: 66.249.77.205 Accessed URL AP0927:http://scitechvista.most.gov.tw/zh-tw/Feature/C/135/1/10/1/1162.htm
+2014-04-22 06:10:10	Local4.Info	10.251.251.1	%ASA-6-302015: Built inbound UDP connection 3964104343 for DMZ9:10.170.172.26/50804 (10.170.172.26/50804) to DMZ10:10.180.180.111/53 (10.180.180.111/53)

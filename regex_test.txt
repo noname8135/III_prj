@@ -1,0 +1,6 @@
+10.170.170.83 - - [19/Apr/2014:00:26:31 +0800] "POST /nsc-jrp-admin/getToDo HTTP/1.1" 200 195
+myemail:shuaichiou@gmail.com
+webmail.nsc.gov.tw
+https://10.2.1.219:443/Exchweb/img/icon-post.gif
+Mar  8 23:59:59 140.92.253.1 ISG1000_A: NetScreen device_id=ISG1000_A  [Root]system-notification-00257(traffic): start_time="2014-03-08 23:59:59" duration=0 policy_id=194 service=dns proto=17 src zone=Trust dst zone=Untrust action=Permit sent=0 rcvd=0 src=140.92.66.71 dst=168.95.1.1 src_port=52857 dst_port=53 src-xlated ip=140.92.66.71 port=52857 dst-xlated ip=168.95.1.1 port=53 session_id=506313 reason=Creation
+10.1.21.55, anonymous, Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML` like Gecko) Chrome/34.0.1847.116 Safari/537.36, Y, 4/20/2014, 00:00:12, w3proxy, NSCPROXY22, -, clients6.google.com, 10.2.1.112, 443, 0, 0, 542, SSL-tunnel, TCP, -, clients6.google.com:443, -, Inet, 5, 0x0, Internet Access, Req ID: 0b647600; Compression: client=No` server=No` compress rate=0% decompress rate=0%, 內部, 外部, 0x800, Failed, 4/19/2014 16:00:12, -
