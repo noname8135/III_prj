@@ -1,5 +1,6 @@
-Lab project with III,
-just for memo~
+
+#Log SOC system
+This is a lab project with III,
 Author: Shuai Chou, Owen Liu, iceman126, Dr.Po-Chin, Lin
 
 required python module:
